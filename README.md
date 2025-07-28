@@ -41,3 +41,14 @@ Combines the results of both LEFT and RIGHT JOINs. It includes all records from 
 
 
 *OUTPUT*
+1.
+<img width="393" height="174" alt="Image" src="https://github.com/user-attachments/assets/f7dc3b92-6ab7-4d04-9af9-d25d89730d5c" />
+
+2.
+<img width="424" height="200" alt="Image" src="https://github.com/user-attachments/assets/40bc5c02-1004-41dd-a88b-7da557e36af2" />
+
+3.
+<img width="405" height="172" alt="Image" src="https://github.com/user-attachments/assets/940de955-4ad1-4147-9d3f-7b5a2d5ea1ef" />
+
+4.
+<img width="475" height="228" alt="Image" src="https://github.com/user-attachments/assets/5c4a7245-08d3-4e34-b5f2-f5cb51d199bc" />
