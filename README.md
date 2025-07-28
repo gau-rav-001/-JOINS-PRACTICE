@@ -41,6 +41,8 @@ Combines the results of both LEFT and RIGHT JOINs. It includes all records from 
 
 
 *OUTPUT*
+
+
 1.
 <img width="393" height="174" alt="Image" src="https://github.com/user-attachments/assets/f7dc3b92-6ab7-4d04-9af9-d25d89730d5c" />
 
