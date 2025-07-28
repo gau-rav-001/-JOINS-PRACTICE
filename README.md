@@ -1,12 +1,19 @@
 # -JOINS-PRACTICE
 *COMPANY NAME* : CODETECH IT SOLUTIONS 
+
 *NAME*: GAURAV kUMBHARE 
+
 *INTERN ID*: CT04DH2634
+
 *DOMAIN*: SQL
+
 *DURATION*: 4 WEEKS 
+
 *MENTOR*: NEELA SANTOSH KUMAR 
 
+
 *DISCRIPTION*
+
 SQL JOIN Operations: INNER, LEFT, RIGHT, and FULL OUTER JOINs
 This project demonstrates how to combine and analyze data meaningfully using SQL JOIN operations on two related tables: Employees and Departments. JOINs are fundamental in relational databases, enabling the integration of data spread across multiple tables. Understanding how different types of JOINs work is essential for database management, data analysis, and backend development.
 
@@ -31,5 +38,6 @@ Returns all records from the Departments table and matches from Employees. Depar
 
 FULL OUTER JOIN
 Combines the results of both LEFT and RIGHT JOINs. It includes all records from both tables, whether matched or not. (Implemented using UNION for compatibility with MySQL.)
+
 
 *OUTPUT*
